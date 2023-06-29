@@ -1,0 +1,6 @@
+bases:
+  - ../../application
+# patches:
+#   -
+patchesStrategicMerge:
+  - env.yaml
